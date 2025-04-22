@@ -11,4 +11,16 @@
       <strong>LunarLander-v2</strong> using Proximal Policy Optimization
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="Media/MLAgentsSnowballTarget.gif" alt="PPO on Unity's MLAgent: SnowballTarget" width="300"/><br/>
+      PPO on <strong>Unity's MLAgent: Snowball Target</strong>
+    </td>
+    <td align="center">
+      <img src="Media/MLAgentsPyramids.gif" alt="PPO on Unity's MLAgent: Pyramids" width="300"/><br/>
+      PPO on <strong>Unity's MLAgent: Pyramids</strong>
+    </td>
+  </tr>
+
 </table>
