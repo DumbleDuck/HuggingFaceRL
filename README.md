@@ -15,11 +15,11 @@
   <tr>
     <td align="center">
       <img src="Media/MLAgentsSnowballTarget.gif" alt="PPO on Unity's MLAgent: SnowballTarget" width="300"/><br/>
-      PPO on <strong>Unity's MLAgent: Snowball Target</strong>
+      PPO on <strong>Unity's ML-Agents: Snowball Target env</strong>
     </td>
     <td align="center">
       <img src="Media/MLAgentsPyramids.gif" alt="PPO on Unity's MLAgent: Pyramids" width="300"/><br/>
-      PPO on <strong>Unity's MLAgent: Pyramids</strong>
+      PPO on <strong>Unity's ML-Agents: Pyramids env</strong>
     </td>
   </tr>
 
