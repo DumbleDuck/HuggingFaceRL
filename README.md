@@ -26,11 +26,11 @@
   <tr>
     <td align="center">
       <img src="Media/a2c-pandaGym.gif" alt="A2C on panda-gym's PandaReachDense-v3 env"/><br/>
-      A2C on panda-gym's<strong> PandaReachDense-v3</strong> env
+      A2C on<strong> PandaReachDense-v3</strong> env
     </td>
     <td align="center">
       <img src="Media/a2c-pandaGym-top.gif" alt="A2C on panda-gym's PandaReachDense-v3 env (top-view)" width="300"/><br/>
-      A2C on panda-gym's <strong>PandaReachDense-v3 </strong>env (top-view)
+      A2C on <strong>PandaReachDense-v3 </strong>env (top-view)
     </td>
   </tr>
 
