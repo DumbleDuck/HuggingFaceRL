@@ -34,4 +34,10 @@
     </td>
   </tr>
 
+  <tr>
+    <td align="center">
+      <img src="Media/ppo-Doom.gif" alt="PPO on Vizdoom's health gathering supreme"/><br/>
+      PPO on<strong> Vizdoom's health gathering supreme</strong> env
+    </td>
+  </tr>
 </table>
