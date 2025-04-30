@@ -39,5 +39,10 @@
       <img src="Media/ppo-Doom.gif" alt="PPO on Vizdoom's health gathering supreme"/><br/>
       PPO on<strong> Vizdoom's health gathering supreme</strong> env
     </td>
+    <td align="center">
+      <img src="Media/reinforce-Pixelcopter-PLE-v0.gif" alt="REINFORCE on Pixelcopter-PLE-v0 env"/><br/>
+      REINFORCE on<strong> Pixelcopter-PLE-v0</strong> env
+    </td>
   </tr>
 </table>
+
