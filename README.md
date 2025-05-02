@@ -50,5 +50,5 @@
 
 <h3 align="center">Agent Scores</h3>
 <div align="center">
-  <img src="Media/Scores.jpg" alt="Scores Summary" width="600"/>
+  <img src="Media/Scores.png" alt="Scores Summary" width="600"/>
 </div>
