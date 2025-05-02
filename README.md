@@ -46,3 +46,9 @@
   </tr>
 </table>
 
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 40px 0;"/>
+
+<h3 align="center">Agent Scores</h3>
+<div align="center">
+  <img src="Media/Scores.jpg" alt="Scores Summary" width="600"/>
+</div>
